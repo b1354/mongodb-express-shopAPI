@@ -6,5 +6,4 @@ Features:
 - edit product
 - show product by id
 - show all product
-- edit product
-
+- delete product
